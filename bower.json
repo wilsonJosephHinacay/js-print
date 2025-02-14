@@ -11,7 +11,7 @@
     "printjs",
     "print-js"
   ],
-  "homepage": "https://github.com/crabbly/Print.js",
+  "homepage": "https://github.com/wilsonJosephHinacay/js-print.git",
   "ignore": [
     "**/.*",
     "node_modules",
